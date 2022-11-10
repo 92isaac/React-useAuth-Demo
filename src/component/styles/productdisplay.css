@@ -1,0 +1,26 @@
+
+
+.display-product{
+    width: 40%;
+    margin: 10px auto;
+    border: solid;
+    border-radius: 15px 0 15px 0 ;
+}
+
+.display-image img{
+    width: 100%;
+    border-radius: 15px 0 0px 0 ;
+
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+
+}
+
+.description{
+    text-align: justify;
+    padding: 10px 30px;
+}
